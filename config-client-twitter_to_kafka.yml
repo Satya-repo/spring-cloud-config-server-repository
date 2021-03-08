@@ -1,4 +1,4 @@
-twitter-to-kafka-service:
+twitter-to-kafka:
   twitter-keywords:
     - Java
     - Microservices
